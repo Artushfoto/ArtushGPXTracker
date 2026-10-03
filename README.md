@@ -66,7 +66,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 * Writes accurate GPS coordinates directly into EXIF/XMP photo metadata.
 
 ### 2. Adobe Lightroom Classic
-* In the **Map** module, select *Tracklog ➔ Load Tracklog...* and pick the file exported from Artush Tracker.
+* In the **Map** module, select *Tracklog ➔ Load Tracklog...* and pick the file exported from Artush GPX Tracker.
 * Lightroom automatically positions photos on the map using matching EXIF timestamps.
 
 ### 3. Zoner Photo Studio X
