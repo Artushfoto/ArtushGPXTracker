@@ -1,4 +1,4 @@
-# Artush GPX Tracker 📱📍
+# Artush GPX Tracker 🌍📍
 
 **Lightweight, single-purpose, and ad-free Android GPS logger designed for photographers.**
 
