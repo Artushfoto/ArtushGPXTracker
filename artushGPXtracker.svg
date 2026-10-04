@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 595.28">
-  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+<svg id="Vrstva_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 200">
   <defs>
     <style>
       .st0 {
@@ -8,93 +7,72 @@
         font-size: 13.68px;
         font-weight: 600;
       }
-
       .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
         isolation: isolate;
       }
-
       .st0, .st3, .st6 {
         fill: #c9d1d9;
       }
-
       .st7 {
         fill: #8957e5;
       }
-
       .st1 {
         font-size: 10.52px;
       }
-
       .st1, .st2, .st4 {
         fill: #8b949e;
       }
-
       .st1, .st4 {
         font-family: SegoeUI, 'Segoe UI';
       }
-
       .st8 {
         fill: #21262d;
         fill-opacity: .65;
         stroke-width: 1.58px;
       }
-
       .st8, .st9 {
         stroke: #30363d;
         stroke-miterlimit: 4.21;
       }
-
       .st10 {
         fill: #2ea44f;
       }
-
       .st11 {
         fill: #1f6feb;
       }
-
       .st9 {
         fill: #161b22;
         stroke-width: 1.05px;
       }
-
       .st2 {
         font-family: ArialMT, Arial;
         font-size: 9.47px;
       }
-
       .st3 {
         font-size: 11.58px;
       }
-
       .st3, .st5 {
         font-family: Arial-BoldMT, Arial;
       }
-
       .st3, .st5, .st6 {
         font-weight: 700;
       }
-
       .st4, .st5 {
         font-size: 12.63px;
       }
-
       .st12 {
         fill: #db6d28;
       }
-
       .st13 {
         fill: url(#Nepojmenovaný_přechod);
       }
-
       .st5 {
         fill: #58a6ff;
       }
-
       .st6 {
         font-family: SegoeUI-Bold, 'Segoe UI';
         font-size: 23.15px;
       }
-
       .link-box {
         cursor: pointer;
         transition: opacity 0.2s ease;
@@ -103,49 +81,55 @@
         opacity: 0.85;
       }
     </style>
-    <linearGradient id="Nepojmenovaný_přechod" data-name="Nepojmenovaný přechod" x1="0" y1="595.28" x2="1" y2="594.28" gradientTransform="translate(0 125481.5186) scale(841.8899 -210.4725)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="Nepojmenovaný_přechod" data-name="Nepojmenovaný přechod" x1="0" y1="200" x2="800" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0d1117"/>
       <stop offset="1" stop-color="#161b22"/>
     </linearGradient>
   </defs>
-  <rect class="st13" y="192.4" width="841.89" height="210.47" rx="12.63" ry="12.63"/>
-  <path class="st11" d="M37.34,223.97h28.41c1.45,0,2.63,1.18,2.63,2.63h0c0,1.45-1.18,2.63-2.63,2.63h-28.41c-1.45,0-2.63-1.18-2.63-2.63h0c0-1.45,1.18-2.63,2.63-2.63Z"/>
-  <path class="st10" d="M77.32,223.97h11.58c1.45,0,2.63,1.18,2.63,2.63h0c0,1.45-1.18,2.63-2.63,2.63h-11.58c-1.45,0-2.63-1.18-2.63-2.63h0c0-1.45,1.18-2.63,2.63-2.63Z"/>
-  <text class="st6" transform="translate(34.7 260.81)"><tspan x="0" y="0">Artush GPX Tracker</tspan></text>
-  <text class="st4" transform="translate(34.7 281.85)"><tspan x="0" y="0">Free Lightweight GPS Logger for Photographers</tspan></text>
+  
+  <!-- Pozadí přesně na míra 800x200 s 12px zaoblením -->
+  <rect class="st13" x="0" y="0" width="800" height="200" rx="12" ry="12"/>
+  
+  <path class="st11" d="M37.34,31.57h28.41c1.45,0,2.63,1.18,2.63,2.63h0c0,1.45-1.18,2.63-2.63,2.63h-28.41c-1.45,0-2.63-1.18-2.63-2.63h0c0-1.45,1.18-2.63,2.63-2.63Z"/>
+  <path class="st10" d="M77.32,31.57h11.58c1.45,0,2.63,1.18,2.63,2.63h0c0,1.45-1.18,2.63-2.63,2.63h-11.58c-1.45,0-2.63-1.18-2.63-2.63h0c0-1.45,1.18-2.63,2.63-2.63Z"/>
+  <text class="st6" transform="translate(34.7 68.41)"><tspan x="0" y="0">Artush GPX Tracker</tspan></text>
+  <text class="st4" transform="translate(34.7 89.45)"><tspan x="0" y="0">Free Lightweight GPS Logger for Photographers</tspan></text>
   
   <a xlink:href="https://vision.artushfoto.eu/" target="_blank">
     <g class="link-box">
-      <rect class="st9" x="34.7" y="299.74" width="265.67" height="90.63" rx="6.31" ry="6.31"/>
-      <circle class="st10" cx="49.44" cy="318.69" r="4.21"/>
-      <text class="st3" transform="translate(62.07 322.9)"><tspan x="0" y="0">Work with</tspan></text>
-      <text class="st5" transform="translate(49.44 343.94)"><tspan x="0" y="0">ArtushVision AI</tspan></text>
-      <text class="st2" transform="translate(49.44 356.57)"><tspan x="0" y="0">Seamless EXIF &amp; GPX sync</tspan></text>
+      <rect class="st9" x="34.7" y="107.34" width="265.67" height="64" rx="6.31" ry="6.31"/>
+      <circle class="st10" cx="49.44" cy="126.29" r="4.21"/>
+      <text class="st3" transform="translate(62.07 130.5)"><tspan x="0" y="0">Work with</tspan></text>
+      <text class="st5" transform="translate(49.44 151.54)"><tspan x="0" y="0">ArtushVision AI</tspan></text>
+      <text class="st2" transform="translate(49.44 164.17)"><tspan x="0" y="0">Seamless EXIF &amp; GPX sync</tspan></text>
     </g>
   </a>
 
-  <g>
-    <rect class="st8" x="320.68" y="215.55" width="236.78" height="75.77"/>
-    <path class="st10" d="M320.68,223.97c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
-    <text class="st0" transform="translate(339.63 238.71)"><tspan x="0" y="0">1. Record (GPS HUD)</tspan></text>
-    <text class="st1" transform="translate(339.63 255.54)"><tspan x="0" y="0">Strict UTC timestamps &amp; continuous</tspan></text>
-    <text class="st1" transform="translate(339.63 270.28)"><tspan x="0" y="0">stationary logging (minDistance = 0m)</tspan></text>
-    <rect class="st8" x="320.68" y="303.95" width="236.78" height="75.77"/>
-    <path class="st11" d="M320.68,312.37c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
-    <text class="st0" transform="translate(339.63 327.1)"><tspan x="0" y="0">3. Clock Sync</tspan></text>
-    <text class="st1" transform="translate(339.63 343.94)"><tspan x="0" y="0">AMOLED screen with exact milliseconds</tspan></text>
-    <text class="st1" transform="translate(339.63 358.67)"><tspan x="0" y="0">for instant ArtushVision AI calibration</tspan></text>
+  <g transform="translate(0, -7.6)">
+    <rect class="st8" x="320.68" y="23.15" width="236.78" height="75.77"/>
+    <path class="st10" d="M320.68,31.57c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
+    <text class="st0" transform="translate(339.63 46.31)"><tspan x="0" y="0">1. Record (GPS HUD)</tspan></text>
+    <text class="st1" transform="translate(339.63 63.14)"><tspan x="0" y="0">Strict UTC timestamps &amp; continuous</tspan></text>
+    <text class="st1" transform="translate(339.63 77.88)"><tspan x="0" y="0">stationary logging (minDistance = 0m)</tspan></text>
+    
+    <rect class="st8" x="320.68" y="111.55" width="236.78" height="75.77"/>
+    <path class="st11" d="M320.68,119.97c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
+    <text class="st0" transform="translate(339.63 134.7)"><tspan x="0" y="0">3. Clock Sync</tspan></text>
+    <text class="st1" transform="translate(339.63 151.54)"><tspan x="0" y="0">AMOLED screen with exact milliseconds</tspan></text>
+    <text class="st1" transform="translate(339.63 166.27)"><tspan x="0" y="0">for instant ArtushVision AI calibration</tspan></text>
   </g>
-  <g>
-    <rect class="st8" x="578.69" y="215.55" width="236.78" height="75.77"/>
-    <path class="st7" d="M578.69,223.97c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
-    <text class="st0" transform="translate(597.64 238.71)"><tspan x="0" y="0">2. Tracks Manager</tspan></text>
-    <text class="st1" transform="translate(597.64 255.54)"><tspan x="0" y="0">Clean archive of all photo sessions,</tspan></text>
-    <text class="st1" transform="translate(597.64 270.28)"><tspan x="0" y="0">notes, rename &amp; quick GPX share</tspan></text>
-    <rect class="st8" x="578.69" y="303.95" width="236.78" height="75.77"/>
-    <path class="st12" d="M578.69,312.37c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
-    <text class="st0" transform="translate(597.64 327.1)"><tspan x="0" y="0">4. Settings &amp; Maps</tspan></text>
-    <text class="st1" transform="translate(597.64 343.94)"><tspan x="0" y="0">Configurable intervals (1s to 1min),</tspan></text>
-    <text class="st1" transform="translate(597.64 358.67)"><tspan x="0" y="0">Mapy.cz &amp; Google Earth integration</tspan></text>
+  
+  <g transform="translate(0, -7.6)">
+    <rect class="st8" x="578.69" y="23.15" width="236.78" height="75.77"/>
+    <path class="st7" d="M578.69,31.57c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
+    <text class="st0" transform="translate(597.64 46.31)"><tspan x="0" y="0">2. Tracks Manager</tspan></text>
+    <text class="st1" transform="translate(597.64 63.14)"><tspan x="0" y="0">Clean archive of all photo sessions,</tspan></text>
+    <text class="st1" transform="translate(597.64 77.88)"><tspan x="0" y="0">notes, rename &amp; quick GPX share</tspan></text>
+    
+    <rect class="st8" x="578.69" y="111.55" width="236.78" height="75.77"/>
+    <path class="st12" d="M578.69,119.97c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
+    <text class="st0" transform="translate(597.64 134.7)"><tspan x="0" y="0">4. Settings &amp; Maps</tspan></text>
+    <text class="st1" transform="translate(597.64 151.54)"><tspan x="0" y="0">Configurable intervals (1s to 1min),</tspan></text>
+    <text class="st1" transform="translate(597.64 166.27)"><tspan x="0" y="0">Mapy.cz &amp; Google Earth integration</tspan></text>
   </g>
 </svg>
