@@ -197,7 +197,7 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
   <img src="images/clock.webp" width="22%" alt="App screen showing camera clock synchronization">
 </p>
 
-## 🌟 Key Features and Benefits
+## Key Features and Benefits
 
 * **Strict UTC Timestamp (ISO-8601):** All track points are saved in pure satellite UTC time, eliminating time offsets and daylight saving shifts.
 * **Continuous Logging While Stationary (`minDistance = 0 m`):** The app never drops points, even when a photographer stays in one place for an extended period (e.g., at a scenic viewpoint or in a studio).
@@ -210,7 +210,7 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
 
 ---
 
-## 🧭 App Controls & Navigation
+## App Controls & Navigation
 
 The app is organized into 4 clear tabs in the bottom navigation bar:
 
@@ -247,7 +247,7 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 
 ---
 
-## 📷 Photo Geotagging & Synchronization
+## Photo Geotagging & Synchronization
 
 Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compatibility with all major geotagging software:
 
@@ -268,7 +268,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. **Download the APK:** Scan the QR code below using your mobile device or click the link to download the installation package directly to your Android phone. *(Note: Official Google Play release is currently in progress).*
 2. **Allow Installation from Unknown Sources:** Because this is a direct APK release, your phone may prompt you to temporarily allow app installation from unknown sources in your device security settings.
@@ -276,7 +276,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 ---
 
-## 🌐 Links & Downloads
+## Links & Downloads
 
 * **Artush GPX Tracker (Mobile App):** [https://tracker.artushfoto.eu](https://tracker.artushfoto.eu)
 * **ArtushVision AI (Desktop Software):** [https://vision.artushfoto.eu](https://vision.artushfoto.eu)
