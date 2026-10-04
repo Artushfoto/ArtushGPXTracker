@@ -320,7 +320,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 ## Installation
 
 1. **Download the APK:** Scan the QR code below using your mobile device or click the link to download the installation package directly to your Android phone. *(Note: Official Google Play release is currently in progress).*
-2. **Allow Installation from Unknown Sources:** Because this is a direct APK release, your phone may prompt you to temporarily allow app installation from unknown sources in your device security settings.
+2. **Installation Guide**: When installing the APK manually outside Google Play, Android will prompt you to grant permission to **"Install unknown apps"** for your web browser or file manager.
 3. **Complete Installation:** Open the downloaded file, confirm the installation, and you are ready to start tracking your GPS routes.
 
 ---
@@ -329,3 +329,10 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 * **Artush GPX Tracker (Mobile App):** [https://tracker.artushfoto.eu](https://tracker.artushfoto.eu)
 * **ArtushVision AI (Desktop Software):** [https://vision.artushfoto.eu](https://vision.artushfoto.eu)
+
+### Privacy, Permissions & Security
+
+* **Location Permission Only**: The application requires only **location access** (*Foreground* and *Background Location*) exclusively to record your route coordinates into GPX tracks. It does not request access to your private files, contacts, camera, or microphone.
+* **Verified & Safe**: You can verify the installation `.apk` file independently on [VirusTotal](https://www.virustotal.com/) before installing. It scans the package against more than 70 industry-standard antivirus engines to ensure it is 100% clean and free of malware.
+
+
