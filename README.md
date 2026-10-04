@@ -1,8 +1,8 @@
 ---
 title: "Artush GPX Tracker | GPS Logger for Photographers"
 description: "Lightweight, single-purpose, and ad-free Android GPS logger designed for photographers"
-
 ---
+
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
