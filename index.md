@@ -186,7 +186,7 @@ h1 { text-align: center; }
 
 **Lightweight, single-purpose, and ad-free Android GPS logger designed for photographers.**
 
-**Artush GPX Tracker** provides straightforward, precise GPS track recording in **UTC** time. It is crafted as the ideal mobile companion for matching geographic coordinates to photos in [**ArtushVision AI**](https://vision.artushfoto.eu), as well as in any other photo editor that supports GPX geotagging.
+**Artush GPX Tracker** provides straightforward, precise GPS track recording in **UTC** time. It is crafted as the ideal mobile companion for matching geographic coordinates to photos in [**ArtushVision AI | Professional Metadata Automation**](https://vision.artushfoto.eu), as well as in any other photo editor that supports GPX geotagging.
 
 ---
 
@@ -205,7 +205,7 @@ h1 { text-align: center; }
 * **Fully Responsive Layout for All Devices:** Typography and interface elements scale dynamically so key controls remain visible on screen without requiring extra scrolling.
 * **Track History & Manager ("Tracks"):** A clean archive of all your photo sessions. Rename tracks, add notes, view paths in external maps, or delete them anytime.
 * **Smart Map Integration:** Direct links to **Mapy.com**, **Google Earth**, and Google Maps. If no compatible GPX viewer is installed, the app provides convenient Google Play links alongside a fallback map preview.
-* **Camera Clock Sync ("Clock"):** A dedicated high-contrast screen displaying exact time down to the millisecond. Photograph the screen before or during your shoot, then enter the visible time into **ArtushVision AI** for instant clock calibration.
+* **Camera Clock Sync ("Clock"):** A dedicated high-contrast screen displaying exact time down to the millisecond. Photograph the screen before or during your shoot, then enter the visible time into [**ArtushVision AI | Professional Metadata Automation**](https://vision.artushfoto.eu) for instant clock calibration.
 * **Bilingual Interface (English / Czech):** Toggle between languages and adjust logging intervals (1s to 1min) directly in settings.
 
 ---
@@ -238,13 +238,13 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 
 ### 3. Clock
 * Pure black AMOLED background with large local and UTC time displays, including milliseconds.
-* Photograph this screen with your camera before or during your shoot. Then, enter the visible time into the **ArtushVision AI** time-shift calculator to synchronize photos with your GPX track automatically.
+* Photograph this screen with your camera before or during your shoot. Then, enter the visible time into the [**ArtushVision AI | Professional Metadata Automation**](https://vision.artushfoto.eu) time-shift calculator to synchronize photos with your GPX track automatically.
 
 
 ### 4. Settings
 * **Location Update Interval:** Select your recording frequency from 1 second (maximum precision) to 1 minute (battery saver).
 * **App Language:** Switch between English and Czech.
-* **Links & About:** Direct links to download the mobile tracker and the **ArtushVision AI** desktop application.
+* **Links & About:** Direct links to download the mobile tracker and the [**ArtushVision AI | Professional Metadata Automation**](https://vision.artushfoto.eu) desktop application.
 
 <p align="center">
   <img src="images/rename-note.webp" width="22%" alt="Artush GPX Tracker Rename track or write note">
@@ -260,7 +260,7 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compatibility with all major geotagging software:
 
 ### 1. ArtushVision AI (Recommended) 💻
-[**ArtushVision AI**](https://vision.artushfoto.eu) is an advanced Windows desktop tool for automated captioning, keyword management, and rapid GPS track synchronization:
+[**ArtushVision AI | Professional Metadata Automation**](https://vision.artushfoto.eu) is an advanced Windows desktop tool for automated captioning, keyword management, and rapid GPS track synchronization:
 * Reads your reference photo of the **Clock** screen to calculate camera clock offsets automatically.
 * Writes accurate GPS coordinates directly into EXIF/XMP photo metadata.
 
