@@ -195,7 +195,7 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
 * **SQLite Database Storage (Room):** Every coordinate is written to internal memory immediately. Recorded data remains safe even if your battery dies or the phone restarts.
 * **Fully Responsive Layout for All Devices:** Typography and interface elements scale dynamically so key controls remain visible on screen without requiring extra scrolling.
 * **Track History & Manager ("Tracks"):** A clean archive of all your photo sessions. Rename tracks, add notes, view paths in external maps, or delete them anytime.
-* **Smart Map Integration:** Direct links to **Mapy.cz**, **Google Earth**, and Google Maps. If no compatible GPX viewer is installed, the app provides convenient Google Play links alongside a fallback map preview.
+* **Smart Map Integration:** Direct links to **Mapy.com**, **Google Earth**, and Google Maps. If no compatible GPX viewer is installed, the app provides convenient Google Play links alongside a fallback map preview.
 * **Camera Clock Sync ("Clock"):** A dedicated high-contrast screen displaying exact time down to the millisecond. Photograph the screen before or during your shoot, then enter the visible time into **ArtushVision AI** for instant clock calibration.
 * **Bilingual Interface (English / Czech):** Toggle between languages and adjust logging intervals (1s to 1min) directly in settings.
 
