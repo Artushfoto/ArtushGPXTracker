@@ -206,7 +206,7 @@ h1 { text-align: center; }
 * **Track History & Manager ("Tracks"):** A clean archive of all your photo sessions. Rename tracks, add notes, view paths in external maps, or delete them anytime.
 * **Smart Map Integration:** Direct links to **Mapy.com**, **Google Earth**, and Google Maps. If no compatible GPX viewer is installed, the app provides convenient Google Play links alongside a fallback map preview.
 * **Camera Clock Sync ("Clock"):** A dedicated high-contrast screen displaying exact time down to the millisecond. Photograph the screen before or during your shoot, then enter the visible time into [**ArtushVision AI - Professional Metadata Automation**](https://vision.artushfoto.eu) for instant clock calibration.
-* **Bilingual Interface (English / Czech):** Toggle between languages and adjust logging intervals (1s to 1min) directly in settings.
+* **Customizable Settings & Multilingual Support:** Easily toggle between languages (Czech, English, German, Spanish, French, Italian, Polish, Slovak, Portuguese, Russian, Hungarian, Ukrainian, Vietnamese, Korean, Chinese, Japanese, Arabic, Hebrew, Turkish) and adjust logging intervals (1s to 1min).
 
 ---
 
