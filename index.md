@@ -261,6 +261,14 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 ---
 
+## 📥 Installation
+
+1. **Download the APK:** Scan the QR code below using your mobile device or click the link to download the installation package directly to your Android phone. *(Note: Official Google Play release is currently in progress).*
+2. **Allow Installation from Unknown Sources:** Because this is a direct APK release, your phone may prompt you to temporarily allow app installation from unknown sources in your device security settings.
+3. **Complete Installation:** Open the downloaded file, confirm the installation, and you are ready to start tracking your GPS routes.
+
+---
+
 ## 🌐 Links & Downloads
 
 * **Artush GPX Tracker (Mobile App):** [https://tracker.artushfoto.eu](https://tracker.artushfoto.eu)
