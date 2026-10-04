@@ -388,7 +388,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 * [**Artush GPX Tracker (Mobile App)**](https://github.com/Artushfoto/ArtushGPXTracker/releases/download/ArtushGPXtracker1.0/ArtushGPXtracker1.0.apk)
 
-<p align="center">
+<p align="left">
   <img src="images/download.png" width="22%" alt="App screen before starting track recording">
 </p>
 
