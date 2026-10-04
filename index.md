@@ -191,7 +191,9 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
 ---
 
 
-[text](images/start-recording)
+| Start recording | Recording |
+| :---: | :---: |
+| ![Start](images/start-recording.webp) | ![Recording](images/recording.webp) |
 
 ## 🌟 Key Features and Benefits
 
@@ -205,6 +207,10 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
 * **Bilingual Interface (English / Czech):** Toggle between languages and adjust logging intervals (1s to 1min) directly in settings.
 
 ---
+
+| Start recording | Recording |
+| :---: | :---: |
+| ![Start](images/start-recording.webp) | ![Recording](images/recording.webp) |
 
 ## 🧭 App Controls & Navigation
 
