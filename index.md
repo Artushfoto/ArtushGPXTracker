@@ -242,17 +242,33 @@ It then adds the GPS coordinates to your photo's metadata.
 
 ---
 
-### Why Is Camera Clock Synchronization Important?
+### Why Should You Synchronize Your Camera Clock?
 
-For GPS geotagging to work correctly, your camera and phone need to have matching times.
+Your camera and phone need to agree on the time to correctly match photos with GPS locations.
 
-Your phone automatically synchronizes its time using GPS and network time, but your camera's internal clock may be a few seconds or even minutes ahead or behind.
+Over time, your camera's internal clock may become a few seconds or even minutes inaccurate.
 
-**Artush GPX Tracker includes a simple Clock Sync feature.**
+Artush GPX Tracker includes a simple solution:
 
-Just take a picture of the Clock Sync screen displayed on your phone. [ArtushVision AI - Professional Metadata Automation](https://vision.artushfoto.eu) can then calculate the time difference between your camera and the phone's GPS track.
+1. Open the Clock screen in the app.
+2. Take a photograph of your phone's displayed clock using your camera.
+3. Load this reference photo into ArtushVision AI.
+4. The software automatically calculates the time difference and corrects the synchronization.
 
-Even if your camera clock is not perfectly accurate, your photos can still be matched with the correct GPS locations.
+**No manual calculations. No guessing. Even older cameras can produce accurately geotagged photos.**
+
+---
+
+### Perfect for Every Photography Adventure
+
+Whether you photograph wildlife, landscapes, nature or travel, Artush GPX Tracker quietly records your journey in the background.
+
+* **Wildlife Photography:** Record the exact locations where you photograph animals, even during long waits in one place.
+* **Landscape Photography:** Remember the exact viewpoints and locations of your favorite compositions.
+* **Travel Photography:** Keep a GPS record of your entire photographic journey.
+* **Nature Photography:** Easily find the locations of plants, flowers and other natural subjects.
+
+Your phone records the locations. Your camera captures the moments. Your photos remember both.
 
 ---
 
@@ -264,15 +280,34 @@ Even if your camera clock is not perfectly accurate, your photos can still be ma
 </p>
 
 ## Key Features and Benefits
+Everything you need to remember where you took your photos – simple, reliable and ready for your next photography adventure.
 
-* **Strict UTC Timestamp (ISO-8601):** All track points are saved in pure satellite UTC time, eliminating time offsets and daylight saving shifts.
-* **Continuous Logging While Stationary (`minDistance = 0 m`):** The app never drops points, even when a photographer stays in one place for an extended period (e.g., at a scenic viewpoint or in a studio).
-* **SQLite Database Storage (Room):** Every coordinate is written to internal memory immediately. Recorded data remains safe even if your battery dies or the phone restarts.
-* **Fully Responsive Layout for All Devices:** Typography and interface elements scale dynamically so key controls remain visible on screen without requiring extra scrolling.
-* **Track History & Manager ("Tracks"):** A clean archive of all your photo sessions. Rename tracks, add notes, view paths in external maps, or delete them anytime.
-* **Smart Map Integration:** Direct links to **Mapy.com**, **Google Earth**, and Google Maps. If no compatible GPX viewer is installed, the app provides convenient Google Play links alongside a fallback map preview.
-* **Camera Clock Sync ("Clock"):** A dedicated high-contrast screen displaying exact time down to the millisecond. Photograph the screen before or during your shoot, then enter the visible time into [**ArtushVision AI - Professional Metadata Automation**](https://vision.artushfoto.eu) for instant clock calibration.
-* **Customizable Settings & Multilingual Support:** Easily toggle between languages (Czech, English, German, Spanish, French, Italian, Polish, Slovak, Portuguese, Russian, Hungarian, Ukrainian, Vietnamese, Korean, Chinese, Japanese, Arabic, Hebrew, Turkish) and adjust logging intervals (1s to 1min).
+* **Accurate GPS Recording**
+Record your geographic locations with precise timestamps, making it easy to match your photos with the correct GPS coordinates.
+
+* **Continuous Location Tracking**
+Your phone records your location even when you stop moving to photograph wildlife, landscapes or other subjects.
+
+* **Safe Track Storage**
+Your recorded GPS tracks are saved and remain available when you close the app or restart your phone.
+
+* **Simple and Easy to Use**
+A clean, intuitive interface makes GPS tracking easy on different Android phone screens.
+
+* **Track History & Management**
+View, browse, rename and manage your previously recorded photography trips.
+
+* **Interactive Map**
+See your recorded routes and discover exactly where you took your photographs.
+
+* **Camera Clock Synchronization**
+Easily check and correct your camera's clock to ensure your photos receive the right GPS locations.
+
+* **Standard GPX Export**
+Export your GPS tracks in the widely supported GPX format and use them with [**ArtushVision AI - Professional Metadata Automation**](https://vision.artushfoto.eu), Lightroom-compatible workflows and other geotagging software.
+
+* **Customizable Settings & Multilingual Support:** 
+Easily toggle between languages (Czech, English, German, Spanish, French, Italian, Polish, Slovak, Portuguese, Russian, Hungarian, Ukrainian, Vietnamese, Korean, Chinese, Japanese, Arabic, Hebrew, Turkish) and adjust logging intervals (1s to 1min).
 
 ---
 
@@ -305,11 +340,6 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 ### 3. Clock
 * Pure black AMOLED background with large local and UTC time displays, including milliseconds.
 * Photograph this screen with your camera before or during your shoot. Then, enter the visible time into the [**ArtushVision AI - Professional Metadata Automation**](https://vision.artushfoto.eu) time-shift calculator to synchronize photos with your GPX track automatically.
-
-### 4. Settings
-* **Location Update Interval:** Select your recording frequency from 1 second (maximum precision) to 1 minute (battery saver).
-* **App Language:** Switch between English and Czech.
-* **Links & About:** Direct links to download the mobile tracker and the [**ArtushVision AI - Professional Metadata Automation**](https://vision.artushfoto.eu) desktop application.
 
 <p align="center">
   <img src="images/rename-note.webp" width="22%" alt="Artush GPX Tracker Rename track or write note">
