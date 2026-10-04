@@ -267,7 +267,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 <a href="images/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
   <img src="images/time-sync-in-artushvision-ai.webp" alt="ArtushVision AI window for easy clock synchronization between camera and GPS data" width="100%" class="screenshot-img">
 </a>
-<div style="height: 15px;"></div>
+<div style="height: 5px;"></div>
 
 ### 2. Adobe Lightroom Classic
 * In the **Map** module, select *Tracklog ➔ Load Tracklog...* and pick the file exported from Artush GPX Tracker.
