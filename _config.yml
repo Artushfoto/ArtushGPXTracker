@@ -1,4 +1,33 @@
-theme: jekyll-theme-cayman
-title: ""
-description: "Lightweight, and ad-free Android GPS logger designed specifically for photographers."
-show_downloads: false
+# --- _config.yml ---
+# Hlavní nastavení dokumentace Artush GPX Tracker
+title: "Artush GPX Tracker"
+name: "Artush GPX Tracker"
+description: "Lightweight, and ad-free Android GPS logger designed specifically for photographers and seamless geotagging workflows."
+lang: en
+url: "https://gpxtracker.artushfoto.eu"
+baseurl: "" # Ponechte prázdné, web běží přímo z kořene subdomény
+
+# Nastavení kompilace a formátování textu
+markdown: kramdown
+highlighter: rouge
+
+# Povolené pluginy pro bezpečné sestavení na GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Soubory a složky, které má kompilátor ignorovat
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - .github/
+
+# Automatické přiřazení šablony default.html pro všechny stránky (pokud máte stejnou šablonu)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+# --- _config.yml ---
