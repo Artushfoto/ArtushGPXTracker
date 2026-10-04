@@ -335,4 +335,45 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 * **Location Permission Only**: The application requires only **location access** (*Foreground* and *Background Location*) exclusively to record your route coordinates into GPX tracks. It does not request access to your private files, contacts, camera, or microphone.
 * **Verified & Safe**: You can verify the installation `.apk` file independently on [VirusTotal](https://www.virustotal.com/) before installing. It scans the package against more than 70 industry-standard antivirus engines to ensure it is 100% clean and free of malware.
 
+[📷 Developer's Photography Portfolio: artushfoto.eu](https://artushfoto.eu)
 
+---
+
+*ArtushVision AI — intelligent metadata optimization for professional photography workflows.*
+
+<!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    let analyticsLoaded = false;
+
+    function loadAnalytics() {
+      if (analyticsLoaded) return;
+      analyticsLoaded = true;
+
+      // 1. Dynamické vložení externího skriptu gtag.js s ID pro GPX Tracker
+      var gtagScript = document.createElement('script');
+      gtagScript.async = true;
+      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-H4FSFZTMXH';
+      document.head.appendChild(gtagScript);
+
+      // 2. Inicializace nastavení Google Analytics s ID pro GPX Tracker
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-H4FSFZTMXH');
+
+      // 3. Odstranění posluchačů událostí po úspěšném načtení
+      document.removeEventListener('scroll', loadAnalytics);
+      document.removeEventListener('mousemove', loadAnalytics);
+      document.removeEventListener('touchstart', loadAnalytics);
+    }
+
+    // Spuštění při první skutečné interakci uživatele
+    document.addEventListener('scroll', loadAnalytics, { passive: true });
+    document.addEventListener('mousemove', loadAnalytics, { passive: true });
+    document.addEventListener('touchstart', loadAnalytics, { passive: true });
+
+    // Pojistka: Pokud uživatel do 5 sekund nic neudělá, načíst Analytics automaticky
+    setTimeout(loadAnalytics, 5000);
+  });
+</script>
