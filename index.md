@@ -1,6 +1,6 @@
 ---
 title: "GPS Logger for Photographers"
-description: "Discover a lightweight, single-purpose, and ad-free Android GPS logger designed specifically for photographers and seamless geotagging workflows."
+description: "Lightweight, and ad-free Android GPS logger designed specifically for photographers and seamless geotagging workflows."
 ---
 
 <div style="display: none;">
