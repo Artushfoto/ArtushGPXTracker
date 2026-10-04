@@ -387,10 +387,8 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 ## Links & Downloads
 
 * [**Artush GPX Tracker (Mobile App)**](https://github.com/Artushfoto/ArtushGPXTracker/releases/download/ArtushGPXtracker1.0/ArtushGPXtracker1.0.apk)
-
-<p align="left">
-  <img src="images/download.png" width="22%" alt="App screen before starting track recording">
-</p>
+    
+    <img src="images/download.png" width="160" alt="QR Code to download Artush GPX Tracker">
 
 * [**ArtushVision AI (Desktop Software)**](https://vision.artushfoto.eu)
 
