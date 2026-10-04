@@ -3,8 +3,6 @@ title: "GPS Logger for Photographers"
 description: "Lightweight, and ad-free Android GPS logger designed specifically for photographers and seamless geotagging workflows."
 ---
 
-# Free Artush GPX Tracker
-
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer, .page-title, .project-name { display: none !important; }
@@ -176,7 +174,20 @@ h1 { text-align: center; }
   }
 }
 </style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('a, h1, div').forEach(el => {
+    if (el.textContent.trim() === "ArtushGPXTracker" && el.closest('.page-header, header, .site-header, h1') === null) {
+      el.style.display = 'none';
+    }
+  });
+  const firstHeader = document.querySelector('.page-header, .site-header, header');
+  if (firstHeader) firstHeader.style.display = 'none';
+});
+</script>
 </div>
+
+# Free Artush GPX Tracker
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; background: transparent; line-height: 0;">
   <object type="image/svg+xml" data="artushGPXtracker.svg" title="Artush GPX Tracker" style="width: 100%; height: auto; aspect-ratio: 841.89 / 200; display: block; border: none; margin: 0; padding: 0; pointer-events: auto !important;">
