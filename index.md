@@ -390,7 +390,11 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
     
     <img src="images/download.png" width="160" alt="QR Code to download Artush GPX Tracker">
 
+---
+
 * [**ArtushVision AI (Desktop Software)**](https://vision.artushfoto.eu)
+
+---
 
 ### Privacy, Permissions & Security
 
