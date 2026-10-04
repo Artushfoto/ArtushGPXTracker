@@ -230,22 +230,23 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 * Complete history of all stored tracks.
 * Each entry shows title, date, start/end timestamps, and recorded point count.
 * **Track Actions:**
-  * ✏ **Rename Track** (e.g., *Křivoklátsko - Autumn Shoot*).
+  * ✏ **Rename Track** (e.g., *Iguazu Falls - Autumn Shoot*).
   * 📝 **Add Note / Description**.
   * 🗺️ **Open in Map App**.
   * 📤 **Share GPX**.
   * 🗑️ **Delete Track**.
 
 <p align="center">
-  <img src="images/rename-note.webp" width="22%" alt="App screen before starting track recording">
-  <img src="images/settings1.webp" width="22%" alt="App screen during active track recording">
-  <img src="images/settings2.webp" width="22%" alt="App screen showing list of saved tracks">
-  <img src="images/settings3.webp" width="22%" alt="App screen showing camera clock synchronization">
+  <img src="images/rename-note.webp" width="22%" alt="Artush GPX Tracker Rename track or write note">
+  <img src="images/settings1.webp" width="22%" alt="Artush GPX Tracker Select language">
+  <img src="images/settings2.webp" width="22%" alt=" Artush GPX Tracker Set update interval">
+  <img src="images/settings3.webp" width="22%" alt="Artush GPX Tracker Quick guide">
 </p>
 
 ### 3. Clock
 * Pure black AMOLED background with large local and UTC time displays, including milliseconds.
 * Photograph this screen with your camera before or during your shoot. Then, enter the visible time into the **ArtushVision AI** time-shift calculator to synchronize photos with your GPX track automatically.
+
 
 ### 4. Settings
 * **Location Update Interval:** Select your recording frequency from 1 second (maximum precision) to 1 minute (battery saver).
