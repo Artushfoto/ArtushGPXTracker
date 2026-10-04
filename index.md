@@ -208,6 +208,9 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
 
 ---
 
+
+
+
 <table>
   <tr>
     <th align="center">Start Recording</th>
@@ -226,6 +229,8 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
     </td>
   </tr>
 </table>
+
+
 
 ## 🧭 App Controls & Navigation
 
