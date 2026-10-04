@@ -236,13 +236,6 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
   * 📤 **Share GPX**.
   * 🗑️ **Delete Track**.
 
-<p align="center">
-  <img src="images/rename-note.webp" width="22%" alt="Artush GPX Tracker Rename track or write note">
-  <img src="images/settings1.webp" width="22%" alt="Artush GPX Tracker Select language">
-  <img src="images/settings2.webp" width="22%" alt=" Artush GPX Tracker Set update interval">
-  <img src="images/settings3.webp" width="22%" alt="Artush GPX Tracker Quick guide">
-</p>
-
 ### 3. Clock
 * Pure black AMOLED background with large local and UTC time displays, including milliseconds.
 * Photograph this screen with your camera before or during your shoot. Then, enter the visible time into the **ArtushVision AI** time-shift calculator to synchronize photos with your GPX track automatically.
@@ -252,6 +245,13 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 * **Location Update Interval:** Select your recording frequency from 1 second (maximum precision) to 1 minute (battery saver).
 * **App Language:** Switch between English and Czech.
 * **Links & About:** Direct links to download the mobile tracker and the **ArtushVision AI** desktop application.
+
+<p align="center">
+  <img src="images/rename-note.webp" width="22%" alt="Artush GPX Tracker Rename track or write note">
+  <img src="images/settings1.webp" width="22%" alt="Artush GPX Tracker Select language">
+  <img src="images/settings2.webp" width="22%" alt=" Artush GPX Tracker Set update interval">
+  <img src="images/settings3.webp" width="22%" alt="Artush GPX Tracker Quick guide">
+</p>
 
 ---
 
