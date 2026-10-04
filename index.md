@@ -186,7 +186,7 @@ h1 { text-align: center; }
 
 **Lightweight, single-purpose, and ad-free Android GPS logger designed for photographers.**
 
-Artush GPX Tracker provides straightforward, precise GPS track recording in **UTC** time. It is crafted as the ideal mobile companion for matching geographic coordinates to photos in **ArtushVision AI**, as well as in any other photo editor that supports GPX geotagging.
+**Artush GPX Tracker** provides straightforward, precise GPS track recording in **UTC** time. It is crafted as the ideal mobile companion for matching geographic coordinates to photos in [**ArtushVision AI**](https://vision.artushfoto.eu), as well as in any other photo editor that supports GPX geotagging.
 
 ---
 
@@ -260,7 +260,7 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compatibility with all major geotagging software:
 
 ### 1. ArtushVision AI (Recommended) 💻
-[ArtushVision AI](https://vision.artushfoto.eu) is an advanced Windows desktop tool for automated captioning, keyword management, and rapid GPS track synchronization:
+[**ArtushVision AI**](https://vision.artushfoto.eu) is an advanced Windows desktop tool for automated captioning, keyword management, and rapid GPS track synchronization:
 * Reads your reference photo of the **Clock** screen to calculate camera clock offsets automatically.
 * Writes accurate GPS coordinates directly into EXIF/XMP photo metadata.
 
