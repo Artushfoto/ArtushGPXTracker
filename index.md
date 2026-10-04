@@ -3,6 +3,36 @@ title: "Free Android GPS Logger for Photographers"
 description: "Lightweight, and ad-free Android GPS logger designed specifically for photographers and seamless geotagging workflows."
 ---
 
+<!-- Cookie Consent Styly a Skript -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function() {
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": { "background": "#24292f", "text": "#ffffff" },
+      "button": { "background": "#2ea44f", "text": "#ffffff" }
+    },
+    "theme": "classic",
+    "position": "bottom",
+    "type": "opt-in",
+    "content": {
+      "message": "This website uses cookies to ensure you get the best experience and to measure traffic.",
+      "dismiss": "Decline",
+      "allow": "Allow cookies",
+      "link": "Learn more"
+    },
+    onStatusChange: function(status) {
+      if (this.hasConsented()) {
+        if (typeof window.loadAnalyticsAfterConsent === 'function') {
+          window.loadAnalyticsAfterConsent();
+        }
+      }
+    }
+  });
+});
+</script>
+
 <div style="display: none;">
 <style>
 header, .page-header, .site-header, footer, .site-footer, .footer, .page-title, .project-name, a.project-banner, section.page-header { display: none !important; }
@@ -276,7 +306,6 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 * Pure black AMOLED background with large local and UTC time displays, including milliseconds.
 * Photograph this screen with your camera before or during your shoot. Then, enter the visible time into the [**ArtushVision AI - Professional Metadata Automation**](https://vision.artushfoto.eu) time-shift calculator to synchronize photos with your GPX track automatically.
 
-
 ### 4. Settings
 * **Location Update Interval:** Select your recording frequency from 1 second (maximum precision) to 1 minute (battery saver).
 * **App Language:** Switch between English and Czech.
@@ -341,39 +370,45 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 *ArtushVision AI — intelligent metadata optimization for professional photography workflows.*
 
-<!-- Odložené načtení Google Analytics pro maximální PageSpeed skóre -->
+<!-- Odložené a podmíněné načtení Google Analytics s ohledem na Cookie Consent -->
 <script>
+  window.loadAnalyticsAfterConsent = function() {
+    if (window.analyticsLoaded) return;
+    window.analyticsLoaded = true;
+
+    var gtagScript = document.createElement('script');
+    gtagScript.async = true;
+    gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-H4FSFZTMXH';
+    document.head.appendChild(gtagScript);
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-H4FSFZTMXH');
+  };
+
   document.addEventListener("DOMContentLoaded", function() {
-    let analyticsLoaded = false;
-
-    function loadAnalytics() {
-      if (analyticsLoaded) return;
-      analyticsLoaded = true;
-
-      // 1. Dynamické vložení externího skriptu gtag.js s ID pro GPX Tracker
-      var gtagScript = document.createElement('script');
-      gtagScript.async = true;
-      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-H4FSFZTMXH';
-      document.head.appendChild(gtagScript);
-
-      // 2. Inicializace nastavení Google Analytics s ID pro GPX Tracker
-      window.dataLayer = window.dataLayer || [];
-      window.gtag = function(){ dataLayer.push(arguments); }
-      gtag('js', new Date());
-      gtag('config', 'G-H4FSFZTMXH');
-
-      // 3. Odstranění posluchačů událostí po úspěšném načtení
-      document.removeEventListener('scroll', loadAnalytics);
-      document.removeEventListener('mousemove', loadAnalytics);
-      document.removeEventListener('touchstart', loadAnalytics);
+    function checkConsentAndLoad() {
+      const cookieConstData = document.cookie;
+      if (cookieConstData.indexOf('cookieconsent_status=allow') !== -1) {
+        window.loadAnalyticsAfterConsent();
+        return;
+      }
+      
+      let analyticsLoaded = false;
+      function triggerOnInteraction() {
+        if (analyticsLoaded) return;
+        if (document.cookie.indexOf('cookieconsent_status=allow') !== -1) {
+          analyticsLoaded = true;
+          window.loadAnalyticsAfterConsent();
+          document.removeEventListener('scroll', triggerOnInteraction);
+          document.removeEventListener('mousemove', triggerOnInteraction);
+        }
+      }
+      document.addEventListener('scroll', triggerOnInteraction, { passive: true });
+      document.addEventListener('mousemove', triggerOnInteraction, { passive: true });
     }
 
-    // Spuštění při první skutečné interakci uživatele
-    document.addEventListener('scroll', loadAnalytics, { passive: true });
-    document.addEventListener('mousemove', loadAnalytics, { passive: true });
-    document.addEventListener('touchstart', loadAnalytics, { passive: true });
-
-    // Pojistka: Pokud uživatel do 5 sekund nic neudělá, načíst Analytics automaticky
-    setTimeout(loadAnalytics, 5000);
+    setTimeout(checkConsentAndLoad, 1000);
   });
 </script>
