@@ -7,7 +7,7 @@ description: "Lightweight, and ad-free Android GPS logger designed specifically 
 
 <div style="display: none;">
 <style>
-header, .page-header, .site-header, footer, .site-footer, .footer { display: none !important; }
+header, .page-header, .site-header, footer, .site-footer, .footer, .page-title, .project-name { display: none !important; }
 h1 { text-align: center; }
 
 /* Profesionální styl pro klikací screenshoty */
