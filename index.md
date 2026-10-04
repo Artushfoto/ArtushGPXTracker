@@ -222,7 +222,7 @@ h1 { text-align: center; }
 
 ## How Does Photo Geotagging Work?
 
-**Add GPS location to your photos – even if your camera doesn't have built-in GPS!**
+**Add GPS location to your photos even if your camera doesn't have built-in GPS!**
 You don't need a special camera, GPS accessories, or complicated cables. All you need is your smartphone and a simple GPS tracking app.
 
 ### 1. Your Phone Records Where You Go
