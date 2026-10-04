@@ -190,13 +190,6 @@ h1 { text-align: center; }
 
 ---
 
-<p align="center">
-  <img src="images/start-recording.webp" width="22%" alt="App screen before starting track recording">
-  <img src="images/recording.webp" width="22%" alt="App screen during active track recording">
-  <img src="images/tracks.webp" width="22%" alt="App screen showing list of saved tracks">
-  <img src="images/clock.webp" width="22%" alt="App screen showing camera clock synchronization">
-</p>
-
 ## How Does Photo Geotagging Work?
 
 **Add GPS location to your photos – even if your camera doesn't have built-in GPS!**
@@ -205,19 +198,15 @@ You don't need a special camera, GPS accessories, or complicated cables. All you
 
 ### 1. Your Phone Records Where You Go
 Start **Artush GPX Tracker** on your phone before you begin taking pictures. Keep it in your pocket or camera bag.
-
 The app automatically records your location and the exact time as you move around. It saves everything in a standard `.gpx` track file.
 
 ### 2. Your Camera Records When You Take Photos
 Every time you press the shutter, your camera saves the date and time of the shot inside the photo.
-
 This works with virtually any digital camera, including older DSLR models without GPS.
 
 ### 3. Your Photos Get Their GPS Location
-After your photoshoot, simply load your photos and GPX track into **ArtushVision AI**, Lightroom Classic, digiKam, or other compatible software.
-
+After your photoshoot, simply load your photos and GPX track into [ArtushVision AI - Professional Metadata Automation](https://vision.artushfoto.eu), Lightroom Classic, digiKam, or other compatible software.
 The software matches the time of each photo with your recorded GPS track and automatically finds where you took the picture.
-
 It then adds the GPS coordinates to your photo's metadata.
 
 **That's it!** Your photos now contain their geographical location, ready for sorting, mapping, and uploading to stock photography agencies.
@@ -232,11 +221,18 @@ Your phone automatically synchronizes its time using GPS and network time, but y
 
 **Artush GPX Tracker includes a simple Clock Sync feature.**
 
-Just take a picture of the Clock Sync screen displayed on your phone. ArtushVision AI can then calculate the time difference between your camera and the phone's GPS track.
+Just take a picture of the Clock Sync screen displayed on your phone. [ArtushVision AI - Professional Metadata Automation](https://vision.artushfoto.eu) can then calculate the time difference between your camera and the phone's GPS track.
 
 Even if your camera clock is not perfectly accurate, your photos can still be matched with the correct GPS locations.
 
 ---
+
+<p align="center">
+  <img src="images/start-recording.webp" width="22%" alt="App screen before starting track recording">
+  <img src="images/recording.webp" width="22%" alt="App screen during active track recording">
+  <img src="images/tracks.webp" width="22%" alt="App screen showing list of saved tracks">
+  <img src="images/clock.webp" width="22%" alt="App screen showing camera clock synchronization">
+</p>
 
 ## Key Features and Benefits
 
