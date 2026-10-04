@@ -177,7 +177,9 @@ h1 { text-align: center; }
 </div>
 
 <div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; background: transparent; line-height: 0;">
-  <img src="artushGPXtracker.svg" alt="Artush GPX Tracker - Lightweight, single-purpose, and ad-free Android GPS logger designed for photographers." style="width: 100%; height: auto; display: block; border: none; margin: 0; padding: 0;" />
+  <object type="image/svg+xml" data="artushGPXtracker.svg" title="Artush GPX Tracker" style="width: 100%; height: auto; aspect-ratio: 800 / 200; display: block; border: none; margin: 0; padding: 0; pointer-events: auto !important;">
+    <img src="artushGPXtracker.svg" alt="Artush GPX Tracker" style="width: 100%; height: auto; display: block;" />
+  </object>
 </div>
 
 # Artush GPX Tracker 🌍📍

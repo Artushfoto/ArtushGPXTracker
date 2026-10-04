@@ -75,10 +75,9 @@
       }
       .link-box {
         cursor: pointer;
-        transition: opacity 0.2s ease;
       }
-      .link-box:hover {
-        opacity: 0.85;
+      .link-box:hover rect.st9 {
+        stroke: #58a6ff;
       }
     </style>
     <linearGradient id="Nepojmenovaný_přechod" data-name="Nepojmenovaný přechod" x1="0" y1="200" x2="800" y2="0" gradientUnits="userSpaceOnUse">
@@ -87,7 +86,6 @@
     </linearGradient>
   </defs>
   
-  <!-- Pozadí přesně na míra 800x200 s 12px zaoblením -->
   <rect class="st13" x="0" y="0" width="800" height="200" rx="12" ry="12"/>
   
   <path class="st11" d="M37.34,31.57h28.41c1.45,0,2.63,1.18,2.63,2.63h0c0,1.45-1.18,2.63-2.63,2.63h-28.41c-1.45,0-2.63-1.18-2.63-2.63h0c0-1.45,1.18-2.63,2.63-2.63Z"/>
@@ -95,7 +93,8 @@
   <text class="st6" transform="translate(34.7 68.41)"><tspan x="0" y="0">Artush GPX Tracker</tspan></text>
   <text class="st4" transform="translate(34.7 89.45)"><tspan x="0" y="0">Free Lightweight GPS Logger for Photographers</tspan></text>
   
-  <a xlink:href="https://vision.artushfoto.eu/" target="_blank">
+  <!-- Klikací odkaz na ArtushVision AI -->
+  <a href="https://vision.artushfoto.eu/" target="_blank">
     <g class="link-box">
       <rect class="st9" x="34.7" y="107.34" width="265.67" height="64" rx="6.31" ry="6.31"/>
       <circle class="st10" cx="49.44" cy="126.29" r="4.21"/>
@@ -105,6 +104,7 @@
     </g>
   </a>
 
+  <!-- Pravé karty -->
   <g transform="translate(0, -7.6)">
     <rect class="st8" x="320.68" y="23.15" width="236.78" height="75.77"/>
     <path class="st10" d="M320.68,31.57c0-5.61,2.81-8.42,8.42-8.42v75.77h-8.42v-67.35Z"/>
