@@ -231,7 +231,7 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 * Each entry shows title, date, start/end timestamps, and recorded point count.
 * **Track Actions:**
   * ✏ **Rename Track** (e.g., *Iguazu Falls - Autumn Shoot*).
-  * 📝 **Add Note / Description**. (Exported with GPX as txt file)
+  * 📝 **Add Note / Description**. (Exported alongside GPX as a .txt file with the same name)
   * 🗺️ **Open in Map App**.
   * 📤 **Share GPX**.
   * 🗑️ **Delete Track**.
