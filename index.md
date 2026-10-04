@@ -216,13 +216,13 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="images/start-recording.webp" style="height: 500px; width: auto;" alt="App screen before starting track recording">
+      <img src="images/start-recording.webp" width="240" alt="App screen before starting track recording">
     </td>
     <td align="center" valign="top">
-      <img src="images/recording.webp" style="height: 500px; width: auto;" alt="App screen during active track recording">
+      <img src="images/recording.webp" width="240" alt="App screen during active track recording">
     </td>
     <td align="center" valign="top">
-      <img src="images/tracks.webp" style="height: 500px; width: auto;" alt="App screen showing list of saved tracks">
+      <img src="images/tracks.webp" width="240" alt="App screen showing list of saved tracks">
     </td>
   </tr>
 </table>
