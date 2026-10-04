@@ -236,6 +236,13 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
   * 📤 **Share GPX**.
   * 🗑️ **Delete Track**.
 
+<p align="center">
+  <img src="images/rename-note.webp" width="22%" alt="App screen before starting track recording">
+  <img src="images/settings1.webp" width="22%" alt="App screen during active track recording">
+  <img src="images/settings2.webp" width="22%" alt="App screen showing list of saved tracks">
+  <img src="images/settings3.webp" width="22%" alt="App screen showing camera clock synchronization">
+</p>
+
 ### 3. Clock
 * Pure black AMOLED background with large local and UTC time displays, including milliseconds.
 * Photograph this screen with your camera before or during your shoot. Then, enter the visible time into the **ArtushVision AI** time-shift calculator to synchronize photos with your GPX track automatically.
