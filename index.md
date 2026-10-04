@@ -265,7 +265,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 * Writes accurate GPS coordinates directly into EXIF/XMP photo metadata.
 
 <a href="images/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
-  <img src="images/time-sync-in-artushvision-ai.webp" alt="ArtushVision AI window for easy clock synchronization between camera and GPS data"" width="100%" class="screenshot-img">
+  <img src="images/time-sync-in-artushvision-ai.webp" alt="ArtushVision AI window for easy clock synchronization between camera and GPS data" width="100%" class="screenshot-img">
 </a>
 <div style="height: 15px;"></div>
 
