@@ -325,9 +325,9 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compatibility with all major geotagging software:
 
 ### 1. ArtushVision AI (Recommended) 💻
-[**ArtushVision AI - Professional Metadata Automation**](https://vision.artushfoto.eu) is an advanced Windows desktop tool for automated captioning, keyword management, and rapid GPS track synchronization:
-* Reads your reference photo of the **Clock** screen to calculate camera clock offsets automatically.
-* Writes accurate GPS coordinates directly into EXIF/XMP photo metadata.
+[**ArtushVision AI – Professional Metadata Automation**](https://vision.artushfoto.eu) is an advanced Windows desktop tool for automated captioning, keyword management, and rapid GPS track synchronization:
+* **Effortless Time Offset Calculation**: Simply load the reference photo of the Artush GPX Tracker's **Clock Sync** screen and enter the time displayed on it. ArtushVision AI instantly compares that time against the photo's capture timestamp and calculates the exact time difference automatically.
+* **Precise Geotagging**: The application writes the synchronized GPS coordinates directly into your photos' EXIF/XMP metadata.
 
 <a href="images/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
   <img src="images/time-sync-in-artushvision-ai.webp" alt="ArtushVision AI window for easy clock synchronization between camera and GPS data" width="100%" class="screenshot-img">
