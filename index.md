@@ -182,8 +182,6 @@ h1 { text-align: center; }
   </object>
 </div>
 
-# Artush GPX Tracker 🌍📍
-
 **Lightweight, single-purpose, and ad-free Android GPS logger designed for photographers.**
 
 Artush GPX Tracker provides straightforward, precise GPS track recording in **UTC** time. It is crafted as the ideal mobile companion for matching geographic coordinates to photos in **ArtushVision AI**, as well as in any other photo editor that supports GPX geotagging.
