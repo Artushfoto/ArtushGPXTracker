@@ -260,9 +260,14 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compatibility with all major geotagging software:
 
 ### 1. ArtushVision AI (Recommended) 💻
-[ArtushVision AI](https://vision.artushfoto.eu) is an advanced desktop tool for automated captioning, keyword management, and rapid GPS track synchronization:
+[ArtushVision AI](https://vision.artushfoto.eu) is an advanced Windows desktop tool for automated captioning, keyword management, and rapid GPS track synchronization:
 * Reads your reference photo of the **Clock** screen to calculate camera clock offsets automatically.
 * Writes accurate GPS coordinates directly into EXIF/XMP photo metadata.
+
+<a href="images/time-sync-in-artushvision-ai.webp" target="_blank" class="screenshot-link">
+  <img src="images/time-sync-in-artushvision-ai.webp" alt="ArtushVision AI window for easy clock synchronization between camera and GPS data"" width="100%" class="screenshot-img">
+</a>
+<div style="height: 15px;"></div>
 
 ### 2. Adobe Lightroom Classic
 * In the **Map** module, select *Tracklog ➔ Load Tracklog...* and pick the file exported from Artush GPX Tracker.
