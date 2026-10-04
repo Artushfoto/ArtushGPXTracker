@@ -176,6 +176,12 @@ h1 { text-align: center; }
 </style>
 </div>
 
+<div style="width: 100%; max-width: 1200px; margin: 0 auto 20px auto; border: 1px solid #333; border-radius: 6px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden; background-color: #253544; line-height: 0;">
+  <object type="image/svg+xml" data="artushvision.svg" title="ArtushVision AI Software Features - Smart Microstock Tagging" aria-label="ArtushVision AI Software Features - Smart Microstock Tagging" style="width: 100%; height: auto; aspect-ratio: 841.89 / 210.47; display: block; pointer-events: auto !important; outline: none; border: none; margin: 0; padding: 0;">
+    <img src="artushGPXtracker.svg" alt="Artush GPX Tracker - Lightweight, single-purpose, and ad-free Android GPS logger designed for photographers." />
+  </object>
+</div>
+
 # Artush GPX Tracker 🌍📍
 
 **Lightweight, single-purpose, and ad-free Android GPS logger designed for photographers.**
