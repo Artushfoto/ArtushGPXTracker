@@ -190,6 +190,9 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
 
 ---
 
+
+[text](images/start-recording)
+
 ## 🌟 Key Features and Benefits
 
 * **Strict UTC Timestamp (ISO-8601):** All track points are saved in pure satellite UTC time, eliminating time offsets and daylight saving shifts.
