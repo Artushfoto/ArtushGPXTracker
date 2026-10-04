@@ -190,27 +190,6 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
 
 ---
 
-
-| Start recording | Recording |
-| :---: | :---: |
-| ![Start](images/start-recording.webp) | ![Recording](images/recording.webp) |
-
-## 🌟 Key Features and Benefits
-
-* **Strict UTC Timestamp (ISO-8601):** All track points are saved in pure satellite UTC time, eliminating time offsets and daylight saving shifts.
-* **Continuous Logging While Stationary (`minDistance = 0 m`):** The app never drops points, even when a photographer stays in one place for an extended period (e.g., at a scenic viewpoint or in a studio).
-* **SQLite Database Storage (Room):** Every coordinate is written to internal memory immediately. Recorded data remains safe even if your battery dies or the phone restarts.
-* **Fully Responsive Layout for All Devices:** Typography and interface elements scale dynamically so key controls remain visible on screen without requiring extra scrolling.
-* **Track History & Manager ("Tracks"):** A clean archive of all your photo sessions. Rename tracks, add notes, view paths in external maps, or delete them anytime.
-* **Smart Map Integration:** Direct links to **Mapy.com**, **Google Earth**, and Google Maps. If no compatible GPX viewer is installed, the app provides convenient Google Play links alongside a fallback map preview.
-* **Camera Clock Sync ("Clock"):** A dedicated high-contrast screen displaying exact time down to the millisecond. Photograph the screen before or during your shoot, then enter the visible time into **ArtushVision AI** for instant clock calibration.
-* **Bilingual Interface (English / Czech):** Toggle between languages and adjust logging intervals (1s to 1min) directly in settings.
-
----
-
-
-
-
 <table>
   <tr>
     <th align="center">Start Recording</th>
@@ -230,7 +209,18 @@ Artush GPX Tracker provides straightforward, precise GPS track recording in **UT
   </tr>
 </table>
 
+## 🌟 Key Features and Benefits
 
+* **Strict UTC Timestamp (ISO-8601):** All track points are saved in pure satellite UTC time, eliminating time offsets and daylight saving shifts.
+* **Continuous Logging While Stationary (`minDistance = 0 m`):** The app never drops points, even when a photographer stays in one place for an extended period (e.g., at a scenic viewpoint or in a studio).
+* **SQLite Database Storage (Room):** Every coordinate is written to internal memory immediately. Recorded data remains safe even if your battery dies or the phone restarts.
+* **Fully Responsive Layout for All Devices:** Typography and interface elements scale dynamically so key controls remain visible on screen without requiring extra scrolling.
+* **Track History & Manager ("Tracks"):** A clean archive of all your photo sessions. Rename tracks, add notes, view paths in external maps, or delete them anytime.
+* **Smart Map Integration:** Direct links to **Mapy.com**, **Google Earth**, and Google Maps. If no compatible GPX viewer is installed, the app provides convenient Google Play links alongside a fallback map preview.
+* **Camera Clock Sync ("Clock"):** A dedicated high-contrast screen displaying exact time down to the millisecond. Photograph the screen before or during your shoot, then enter the visible time into **ArtushVision AI** for instant clock calibration.
+* **Bilingual Interface (English / Czech):** Toggle between languages and adjust logging intervals (1s to 1min) directly in settings.
+
+---
 
 ## 🧭 App Controls & Navigation
 
