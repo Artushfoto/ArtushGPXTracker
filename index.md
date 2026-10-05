@@ -386,9 +386,9 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 ## Links & Downloads
 
-* [**Artush GPX Tracker (Mobile App)**](https://github.com/Artushfoto/ArtushGPXTracker/releases/download/ArtushGPXtracker1.0/ArtushGPXtracker1.0.apk)
+* **Artush GPX Tracker (Mobile App)** Will be available soon (Google approval is in process)
     
-    <img src="images/download.png" width="160" alt="QR Code to download Artush GPX Tracker">
+
 
 ---
 
@@ -399,7 +399,6 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 ### Privacy, Permissions & Security
 
 * **Location Permission Only**: The application requires only **location access** (*Foreground* and *Background Location*) exclusively to record your route coordinates into GPX tracks. It does not request access to your private files, contacts, camera, or microphone.
-* **Verified & Safe**: You can verify the installation `.apk` file independently on [VirusTotal](https://www.virustotal.com/) before installing. It scans the package against more than 70 industry-standard antivirus engines to ensure it is 100% clean and free of malware.
 
 [📷 Developer's Photography Portfolio: artushfoto.eu](https://artushfoto.eu)
 
