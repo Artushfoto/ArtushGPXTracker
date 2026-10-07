@@ -386,7 +386,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 ## Links & Downloads
 
-* **Artush GPX Tracker (Mobile App)** Will be available soon (Google approval is in process)
+* **Artush GPX Tracker (Mobile App)** Will be available soon (Google Play approval is in process)
 
 [**Click here to become a beta tester for Artush GPX Tracker, or scan the QR code with your phone.**](https://play.google.com/apps/testing/com.artush.gpxtracker)
     
