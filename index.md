@@ -388,11 +388,10 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 * **Artush GPX Tracker (Mobile App)** Will be available soon (Google approval is in process)
 
-**Become a Beta Tester for Artush GPX Tracker**
-https://play.google.com/apps/testing/com.artush.gpxtracker
+[**Click here to become a beta tester for Artush GPX Tracker**](https://play.google.com/apps/testing/com.artush.gpxtracker)
     
 <p align="left">
-  <img src="become-tester.png" width="50%" alt="Artush GPX Tracker Rename track or write note">
+  <img src="become-tester.png" width="30%" alt="Test Artush GPX Tracker">
 </p>
 
 ---
