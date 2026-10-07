@@ -1,6 +1,6 @@
 ---
-title: "Free Android GPS Logger for Photographers"
-description: "Lightweight, and ad-free Android GPS logger designed specifically for photographers and seamless geotagging workflows."
+Title: "Free GPS Logger for Photographers | ArtushGPXTracker"
+Description: "Lightweight, ad-free Android GPS tracker designed for photographers and precise photo geotagging with GPX tracks"
 ---
 
 <!-- Cookie Consent Styly a Skript -->
