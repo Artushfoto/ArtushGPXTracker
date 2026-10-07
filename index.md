@@ -391,7 +391,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 [**Click here to become a beta tester for Artush GPX Tracker**](https://play.google.com/apps/testing/com.artush.gpxtracker)
     
 <p align="left">
-  <img src="become-tester.png" width="30%" alt="Test Artush GPX Tracker">
+  <img src="become-tester.png" width="15%" alt="Test Artush GPX Tracker">
 </p>
 
 ---
