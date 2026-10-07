@@ -398,6 +398,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 [**ArtushVision AI - Professional Metadata Automation (Desktop Software)**](https://vision.artushfoto.eu)
 * The Ultimate AI-Powered Workstation for Metadata, Asset Management, and Global & FTP Distribution.
+
 ---
 
 ### Privacy, Permissions & Security
