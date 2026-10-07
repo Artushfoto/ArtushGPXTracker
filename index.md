@@ -396,7 +396,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 ---
 
-* [**ArtushVision AI (Desktop Software)**](https://vision.artushfoto.eu)
+* [**ArtushVision AI | Professional Metadata Automation (Desktop Software)**](https://vision.artushfoto.eu)
 
 ---
 
