@@ -403,6 +403,7 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 1. **Step 1:** [Join our Google Testers Group](https://groups.google.com/g/artush-gpx-trackers-testers) *(Click "Join group" using the Google account you use on Google Play)*
 
 2. **Step 2:** [Opt-in to the Beta Test on Google Play](https://play.google.com/apps/testing/com.artush.gpxtracker) *(Click "Become a tester" and download the app)*
+
 ---
 
 [**ArtushVision AI - Professional Metadata Automation (Desktop Software)**](https://vision.artushfoto.eu)
