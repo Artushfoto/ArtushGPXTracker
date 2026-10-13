@@ -341,11 +341,8 @@ The app is organized into 4 clear tabs in the bottom navigation bar:
 * Pure black AMOLED background with large local and UTC time displays, including milliseconds.
 * Photograph this screen with your camera before or during your shoot. Then, enter the visible time into the [**ArtushVision AI - Professional Metadata Automation**](https://vision.artushfoto.eu) time-shift calculator to synchronize photos with your GPX track automatically.
 
-<p align="center">
+<p align="left">
   <img src="images/rename-note.webp" width="22%" alt="Artush GPX Tracker Rename track or write note">
-  <img src="images/settings1.webp" width="22%" alt="Artush GPX Tracker Select language">
-  <img src="images/settings2.webp" width="22%" alt=" Artush GPX Tracker Set update interval">
-  <img src="images/settings3.webp" width="22%" alt="Artush GPX Tracker Quick guide">
 </p>
 
 ---
@@ -385,22 +382,13 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 ---
 
 ## Links & Downloads
-
-* **Artush GPX Tracker (🤖 Android Mobile App)** Will be available soon (Google Play approval is in process)
-
-## Links & Downloads
-
-
-
 * **Artush GPX Tracker** (🤖 Android Mobile App) – *Beta testing in progress*
-
-
 
 ### How to join the Beta test:
 
-
-
 1. **Step 1:** [Join our Google Testers Group](https://groups.google.com/g/artush-gpx-trackers-testers) *(Click "Join group" using the Google account you use on Google Play)*
+
+
 
 2. **Step 2:** [Opt-in to the Beta Test on Google Play](https://play.google.com/apps/testing/com.artush.gpxtracker) *(Click "Become a tester" and download the app)*
 
