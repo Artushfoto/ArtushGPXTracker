@@ -381,13 +381,13 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 1. **Join the Testers Group:** Click the link below or scan the QR code to join our [Google Testers Group](https://groups.google.com/g/artush-gpx-trackers-testers). *(Important: Make sure to join with the same Google account you use on your Android phone).*
 
     <p align="left">
-      <img src="join-testers-group.png" width="33%" alt="Artush GPX Tracker Rename track or write note">
+      <img src="join-testers-group.png" width="25%" alt="Artush GPX Tracker Rename track or write note">
     </p>
 
 2. **Opt-in on Google Play:** Open the [Google Play Beta Testing Page](https://play.google.com/apps/testing/com.artush.gpxtracker) and click **"Become a tester"** to grant your account access to the build.
 
     <p align="left">
-      <img src="join-testers-group.png" width="33%" alt="Artush GPX Tracker Rename track or write note">
+      <img src="join-testers-group.png" width="25%" alt="Artush GPX Tracker Rename track or write note">
     </p>
 
 3. **Install & Start Tracking:** Click the Google Play download link to install **Artush GPX Tracker** directly to your device, and you are ready to start tracking your routes.
