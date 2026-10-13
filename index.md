@@ -378,28 +378,19 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 ## Installation
 
-1. **Download the APK:** Scan the QR code below using your mobile device or click the link to download the installation package directly to your Android phone. *(Note: Official Google Play release is currently in progress).*
-2. **Installation Guide**: When installing the APK manually outside Google Play, Android will prompt you to grant permission to **"Install unknown apps"** for your web browser or file manager.
-3. **Complete Installation:** Open the downloaded file, confirm the installation, and you are ready to start tracking your GPS routes.
-
----
-
-## Links & Downloads
-**Artush GPX Tracker** (🤖 Android Mobile App) – *Beta testing in progress*
-
-### How to join the Beta test:
-
-1. **Step 1:** [Join our Google Testers Group](https://groups.google.com/g/artush-gpx-trackers-testers) *(Click "Join group" using the Google account you use on Google Play)*
+1. **Join the Testers Group:** Click the link below or scan the QR code to join our [Google Testers Group](https://groups.google.com/g/artush-gpx-trackers-testers). *(Important: Make sure to join with the same Google account you use on your Android phone).*
 
     <p align="left">
       <img src="join-testers-group.png" width="33%" alt="Artush GPX Tracker Rename track or write note">
     </p>
 
-2. **Step 2:** [Opt-in to the Beta Test on Google Play](https://play.google.com/apps/testing/com.artush.gpxtracker) *(Click "Become a tester" and download the app)*
+2. **Opt-in on Google Play:** Open the [Google Play Beta Testing Page](https://play.google.com/apps/testing/com.artush.gpxtracker) and click **"Become a tester"** to grant your account access to the build.
 
     <p align="left">
-     <img src="become-tester.png" width="33%" alt="Artush GPX Tracker Rename track or write note">
+      <img src="join-testers-group.png" width="33%" alt="Artush GPX Tracker Rename track or write note">
     </p>
+
+3. **Install & Start Tracking:** Click the Google Play download link to install **Artush GPX Tracker** directly to your device, and you are ready to start tracking your routes.
 
 ---
 
