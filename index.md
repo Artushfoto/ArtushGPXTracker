@@ -388,12 +388,21 @@ Exported `.gpx` files strictly follow the **GPX 1.1** standard, ensuring compati
 
 * **Artush GPX Tracker (🤖 Android Mobile App)** Will be available soon (Google Play approval is in process)
 
-[**Click here to become a beta tester for Artush GPX Tracker, or scan the QR code with your phone.**](https://play.google.com/apps/testing/com.artush.gpxtracker)
-    
-<p align="left">
-  <img src="become-tester.png" width="15%" alt="Test Artush GPX Tracker">
-</p>
+## Links & Downloads
 
+
+
+* **Artush GPX Tracker** (🤖 Android Mobile App) – *Beta testing in progress*
+
+
+
+### How to join the Beta test:
+
+
+
+1. **Step 1:** [Join our Google Testers Group](https://groups.google.com/g/artush-gpx-trackers-testers) *(Click "Join group" using the Google account you use on Google Play)*
+
+2. **Step 2:** [Opt-in to the Beta Test on Google Play](https://play.google.com/apps/testing/com.artush.gpxtracker) *(Click "Become a tester" and download the app)*
 ---
 
 [**ArtushVision AI - Professional Metadata Automation (Desktop Software)**](https://vision.artushfoto.eu)
